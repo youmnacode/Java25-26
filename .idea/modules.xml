@@ -2,9 +2,40 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW1Q1/HW1Q1.iml" filepath="$PROJECT_DIR$/HW1Q1/HW1Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW1Q2/HW1Q2 Real/HW1Q2 Real.iml" filepath="$PROJECT_DIR$/HW1Q2/HW1Q2 Real/HW1Q2 Real.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW1Q2REAL/HW1Q2REAL.iml" filepath="$PROJECT_DIR$/HW1Q2REAL/HW1Q2REAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW1Q3/HW1Q3.iml" filepath="$PROJECT_DIR$/HW1Q3/HW1Q3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2.iml" filepath="$PROJECT_DIR$/HW2/HW2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java25-26.iml" filepath="$PROJECT_DIR$/.idea/Java25-26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 3/Lab 3.iml" filepath="$PROJECT_DIR$/Lab 3/Lab 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 8/Lab 8.iml" filepath="$PROJECT_DIR$/Lab 8/Lab 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4/Lab3 Ex2/Lab3 Ex2.iml" filepath="$PROJECT_DIR$/Lab4/Lab3 Ex2/Lab3 Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 3/Lab3_Ex2/Lab3_Ex2.iml" filepath="$PROJECT_DIR$/Lab 3/Lab3_Ex2/Lab3_Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 3/Lab3_Ex3/Lab3_Ex3.iml" filepath="$PROJECT_DIR$/Lab 3/Lab3_Ex3/Lab3_Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab4/Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5/Lab5.iml" filepath="$PROJECT_DIR$/Lab5/Lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5 Q2/Lab5 Q2.iml" filepath="$PROJECT_DIR$/Lab5 Q2/Lab5 Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab6/Lab6.iml" filepath="$PROJECT_DIR$/Lab6/Lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab7/Lab7.iml" filepath="$PROJECT_DIR$/Lab7/Lab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab9/Lab9.iml" filepath="$PROJECT_DIR$/Lab9/Lab9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lec2-JavaIntro/Lec2-JavaIntro.iml" filepath="$PROJECT_DIR$/Lec2-JavaIntro/Lec2-JavaIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture1/Lecture1.iml" filepath="$PROJECT_DIR$/Lecture1/Lecture1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My Lecture 3/My W2 L3.iml" filepath="$PROJECT_DIR$/My Lecture 3/My W2 L3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2 L4/W2 L4.iml" filepath="$PROJECT_DIR$/W2 L4/W2 L4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3L1 L5/W2L2 L4.iml" filepath="$PROJECT_DIR$/W3L1 L5/W2L2 L4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3L1 L5/W3L1/W3L1.iml" filepath="$PROJECT_DIR$/W3L1 L5/W3L1/W3L1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4L1/W4L1.iml" filepath="$PROJECT_DIR$/W4L1/W4L1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4L1 classes/W4L1 classes.iml" filepath="$PROJECT_DIR$/W4L1 classes/W4L1 classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5L1/W5L1.iml" filepath="$PROJECT_DIR$/W5L1/W5L1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5L1/W5L2/W5L2.iml" filepath="$PROJECT_DIR$/W5L1/W5L2/W5L2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5L2 Real/W5L2 Real.iml" filepath="$PROJECT_DIR$/W5L2 Real/W5L2 Real.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6L1 methods/W6L1 methods.iml" filepath="$PROJECT_DIR$/W6L1 methods/W6L1 methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6L2/W6L2 arrays.iml" filepath="$PROJECT_DIR$/W6L2/W6L2 arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W7L1 Arrays contd./W7L1 Arrays contd..iml" filepath="$PROJECT_DIR$/W7L1 Arrays contd./W7L1 Arrays contd..iml" />
+      <module fileurl="file://$PROJECT_DIR$/W7L2 Inheritance and Polymorphism/W7L2 Inheritance and Polymorphism.iml" filepath="$PROJECT_DIR$/W7L2 Inheritance and Polymorphism/W7L2 Inheritance and Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W8L1/W8L1.iml" filepath="$PROJECT_DIR$/W8L1/W8L1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W8L2 ADT push pop/W8L2 ADT push pop.iml" filepath="$PROJECT_DIR$/W8L2 ADT push pop/W8L2 ADT push pop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
     </modules>
   </component>
